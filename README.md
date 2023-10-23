@@ -28,12 +28,12 @@
 
 
 # Стек:
-pandas
-seaborn
-matplotlib
-numpy
-scipy
-statsmodels
-sklearn
-catboost
+pandas,
+seaborn,
+matplotlib,
+numpy,
+scipy,
+statsmodels,
+sklearn,
+catboost,
 lightgbm
